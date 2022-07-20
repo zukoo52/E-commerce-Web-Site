@@ -1,0 +1,23 @@
+
+Copyright (C) 2019 All rights reserved | Acorp - Cylone Antiques
+
+=====================================================================
+
+                 Acorp - Cylone Antiques
+
+=====================================================================
+
+ Acorp - Cylone Antiques website is a E-Commerce website that sell Antiques.
+
+---------------------------------------------------------------------
+           Acorp - Cylone Antiques Openning steps
+---------------------------------------------------------------------
+
+ 01. In CA folder Open "connection.php" in any text editor and change the Database Manager 
+ username and password as your Database Manager username and password.
+
+ 02. Go to your Database Manager create database named "ca" import "ca.sql"(You can find this in database folder).
+
+ 03. Open Specificly the file "gindex.php".
+
+ 04.Test the Website.
